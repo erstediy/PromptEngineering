@@ -6,7 +6,7 @@
 |---|---|
 | № 1. Агент-художник | [Галерея «Пальто мистера Белла»](https://erstediy.github.io/PromptEngineering/lab1/) · [Отчёт](lab1/REPORT.md) · [Ноутбук](lab1/Agent_Artist.ipynb) |
 | № 2. Агентский театр | [Отчёт «Мышеловка»](lab2/REPORT.md) · [Ноутбук и постановка](lab2/LLM_Theatre.ipynb) · [Задание](lab2/README.md) |
-| № 3 | [Каталог](lab3/) |
+| № 3. Мой агент | [Последний огонь маяка](lab3/README.md) · [Видео двух партий](lab3/images/demo.mp4) |
 
 Исходное задание первой лабораторной подготовлено MAILabs Education. [Agent Artist](https://github.com/MAILabs-Education/Agent_Artist)
 
